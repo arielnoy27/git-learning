@@ -4,3 +4,9 @@ def add(a,b):
 
 x = add(5,3)
 print(x)
+
+class human:
+    def __init__(self):
+        pass
+
+    
